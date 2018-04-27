@@ -1,0 +1,24 @@
+c:\users\s24-vp2\documents\visual studio 2015\Projects\sharp1\sharp1\bin\Debug\sharp1.exe.config
+c:\users\s24-vp2\documents\visual studio 2015\Projects\sharp1\sharp1\obj\Debug\sharp1.csprojResolveAssemblyReference.cache
+G:\c#\sharp1\sharp1\bin\Debug\sharp1.exe.config
+G:\c#\sharp1\sharp1\obj\Debug\sharp1.csprojResolveAssemblyReference.cache
+E:\c#\sharp1\sharp1\bin\Debug\sharp1.exe.config
+E:\c#\sharp1\sharp1\bin\Debug\sharp1.exe
+E:\c#\sharp1\sharp1\bin\Debug\sharp1.pdb
+E:\c#\sharp1\sharp1\obj\Debug\sharp1.exe
+E:\c#\sharp1\sharp1\obj\Debug\sharp1.pdb
+G:\c#\sharp1\sharp1\obj\Debug\sharp1.exe
+G:\c#\sharp1\sharp1\obj\Debug\sharp1.pdb
+G:\c#\sharp1\sharp1\bin\Debug\sharp1.exe
+G:\c#\sharp1\sharp1\bin\Debug\sharp1.pdb
+E:\c#\sharp1\sharp1\obj\Debug\sharp1.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\sharp1\sharp1\bin\Debug\sharp1.exe.config
+C:\Users\Roman\Desktop\sharp1\sharp1\obj\Debug\sharp1.exe
+C:\Users\Roman\Desktop\sharp1\sharp1\obj\Debug\sharp1.pdb
+C:\Users\Roman\Desktop\sharp1\sharp1\bin\Debug\sharp1.exe
+C:\Users\Roman\Desktop\sharp1\sharp1\bin\Debug\sharp1.pdb
+C:\Users\Roman\Desktop\sharp1\sharp1\obj\Debug\sharp1.csprojResolveAssemblyReference.cache
+C:\Users\kurulo\Desktop\прорамування\sharp1\sharp1\obj\Debug\sharp1.csprojResolveAssemblyReference.cache
+C:\Users\kurulo\Desktop\прорамування\sharp1\sharp1\obj\Debug\sharp1.csproj.CoreCompileInputs.cache
+C:\Users\kurulo\Desktop\прорамування\sharp1\sharp1\obj\Debug\sharp1.exe
+C:\Users\kurulo\Desktop\прорамування\sharp1\sharp1\obj\Debug\sharp1.pdb
